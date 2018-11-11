@@ -5,13 +5,13 @@ generates random numbers and their mean value
 ### install
 
 ```
-npm install mean-number-generator
+npm install mean-number-generator --save
 ```
 
 ### use
 
 ```javascript
-const mean = require('./index');
+const mean = require('./mean-number-generator');
 
 const numberOfSets = 10;
 const numberOfNumbersInEachSet = 5;
