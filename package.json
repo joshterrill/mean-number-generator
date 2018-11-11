@@ -1,0 +1,25 @@
+{
+  "name": "mean-number-generator",
+  "version": "0.0.1",
+  "description": "generates random numbers and their mean value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/mean-number-generator.git"
+  },
+  "keywords": [
+    "mean",
+    "number",
+    "generation",
+    "random"
+  ],
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/mean-number-generator/issues"
+  },
+  "homepage": "https://github.com/joshterrill/mean-number-generator#readme"
+}
