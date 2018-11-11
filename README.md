@@ -11,7 +11,7 @@ npm install mean-number-generator --save
 ### use
 
 ```javascript
-const mean = require('./mean-number-generator');
+const mean = require('mean-number-generator');
 
 const numberOfSets = 10;
 const numberOfNumbersInEachSet = 5;
